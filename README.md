@@ -25,13 +25,13 @@ Passionate about automation, distributed systems, and building meaningful tech.
 
 ### 📌 Featured Projects
 
-🧾 No-Code Reporting Tool — Automated reporting platform used in banking environments, enabling configurable workflows, dynamic SQL processing, and automated document generation.
-🩺 Non-Invasive Cholesterol Monitoring Device — Prototype medical IoT device leveraging signal acquisition, embedded circuitry, and ML-based estimation models to measure cholesterol without blood samples.
-🔍 PII Redaction Tool — AI-powered text processing system capable of detecting and masking sensitive personal data using NLP pipelines and regex intelligence.
-🧤 Gloved vs. Bare Hand Detection using Deep Learning — Built a computer vision model to classify gloved and non-gloved hands using a custom image dataset, improving detection reliability for safety and compliance applications.
-💳 Loan Approval Prediction Analysis — Developed a machine learning model with 83%+ accuracy to predict loan approvals using advanced algorithms such as SVM, enabling data-driven decision-making for financial institutions.
-🤖 JobSync AI Agent — Autonomous bot that parses job descriptions, matches profiles, and automates application workflows using retrieval-augmented reasoning and smart context parsing.
-🧠 Smart Plant Care System — IoT-based embedded system enabling automated watering using soil moisture sensors and MQTT integration.
+- 🧾 **No-Code Reporting Tool — Automated reporting platform used in banking environments, enabling configurable workflows, dynamic SQL processing, and automated document generation.
+- 🩺 **Non-Invasive Cholesterol Monitoring Device — Prototype medical IoT device leveraging signal acquisition, embedded circuitry, and ML-based estimation models to measure cholesterol without blood samples.
+- 🔍 **PII Redaction Tool — AI-powered text processing system capable of detecting and masking sensitive personal data using NLP pipelines and regex intelligence.
+- 🧤 **Gloved vs. Bare Hand Detection using Deep Learning — Built a computer vision model to classify gloved and non-gloved hands using a custom image dataset, improving detection reliability for safety and compliance applications.
+- 💳 **Loan Approval Prediction Analysis — Developed a machine learning model with 83%+ accuracy to predict loan approvals using advanced algorithms such as SVM, enabling data-driven decision-making for financial institutions.
+- 🤖 **JobSync AI Agent — Autonomous bot that parses job descriptions, matches profiles, and automates application workflows using retrieval-augmented reasoning and smart context parsing.
+- 🧠 **Smart Plant Care System — IoT-based embedded system enabling automated watering using soil moisture sensors and MQTT integration.
 
 ### 🤝 Connect With Me
 

@@ -38,3 +38,9 @@ Passionate about automation, distributed systems, and building meaningful tech.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankgoyal28/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shashankaggarwal654)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankaggarwal654@gmail.com)
+
+
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/shashankgoyal28/shashankgoyal28/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/shashankgoyal28/shashankgoyal28/output/snake-dark.svg#gh-dark-mode-only)

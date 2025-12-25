@@ -1,4 +1,4 @@
-# Hi! This is Shashank
+# “Code. Systems. Impact. - Shashank”
 
 🚀 Engineering   
 Passionate about automation, distributed systems, and building meaningful tech.

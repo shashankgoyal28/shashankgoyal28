@@ -4,7 +4,7 @@
 Passionate about automation, distributed systems, and building meaningful tech.
 
 - 🔭 Currently working on: Engineeering... Data and it's Applications  
-- 🌱 Learning: Python Programming | AWS | System Architecture  
+- 🌱 Learning: Python Programming | AWS | System Architecture | Data Structures C++ 
 - 💼 Open to: Engineer roles  
 
 ### 🧠 Tech Stack

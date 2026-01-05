@@ -35,8 +35,6 @@ Passionate about automation, distributed systems, and building meaningful tech.
 - 🤖 JobSync AI Agent: Autonomous bot that parses job descriptions, matches profiles, and automates application workflows using retrieval-augmented reasoning and smart context parsing.
 - 🧠 Smart Plant Care System: IoT-based embedded system enabling automated watering using soil moisture sensors and MQTT integration.
 
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankgoyal&show_icons=true&theme=radical)
-
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankgoyal28/)
